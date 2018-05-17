@@ -37,6 +37,12 @@ img {
 
 section.quees{
   padding: 4em 0px;
+  background: #FCC920;
+}
+
+#comoayudar {
+  padding: 4em 0px;
+  background: white;
 }
 
 #landing {
@@ -65,7 +71,7 @@ section.quees{
 }
 
 .seccion {
-  background: #FCC920;
+  color: white;
   width: 100%;
 }
 
