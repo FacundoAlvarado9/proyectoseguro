@@ -62,6 +62,13 @@ section#quien {
   padding: 4em 0px;
   background: #FCDE60
 }
+#contacto p {
+  margin-bottom: 0px;
+  text-align: center;
+}
+#contacto a:hover{
+  color: white;
+}
 
 #texto-grande {
   text-align: center;
@@ -74,6 +81,34 @@ section#quien {
   text-align: center;
   color: white;
   font-family: 'Work Sans', sans-serif;
+}
+
+#quien p {
+  text-align: justify;
+}
+
+#landing h4{
+  text-align: center;
+  color: white;
+}
+
+.a123 {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.a123 img {
+  width: 100%;
+  margin: 1em;
+  border: .5em solid white;
+}
+
+.btn-purple {
+  background-color: purple;
+}
+
+.btn-purple a {
+  color: white;
 }
 
 .texto{
