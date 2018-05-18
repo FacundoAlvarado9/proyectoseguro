@@ -35,6 +35,16 @@ img {
   vertical-align: middle;
 }
 
+footer {
+  padding: .5em 0px;
+  background: white;
+  border-top: 1px solid black;
+}
+
+footer p {
+  margin-bottom: 0px;
+}
+
 section.quees{
   padding: 4em 0px;
   background: #FCCF14;
