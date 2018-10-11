@@ -9,7 +9,7 @@ Fue la iniciativa que elegí como proyecto voluntario tras el programa de interc
 El Proyecto no tuvo el apoyo esperado en la financiación. La alternativa, si bien tuvo mejores resultados de los esperados, no pudo ser sostenida en el tiempo, por lo que decidí dar por finalizado el proyecto.
 
 ## Resultados de la campaña
-*Cerca de 6700 personas alcanzadas
-*Más de 500 interacciones
+-Cerca de 6700 personas alcanzadas
+-Más de 500 interacciones
 
 
