@@ -1,5 +1,5 @@
 # Proyecto Seguro (finalizado)
-Este es el repositorio de la página web de Proyecto Seguro. Página que puede encontrarse todavía en www.proyectoseguro.org
+Este es el repositorio de la página web de Proyecto Seguro.
 
 ## ¿Qué fue Proyecto Seguro?
 Proyecto Seguro fue una campaña publicitaria sin fines de lucro enfocada en la población general que buscaba concientizar sobre la seguridad en el Internet. Funcionó a través de Facebook, con anuncios allí. Puede todavía encontrarse en https://www.facebook.com/Proyecto-Seguro-452216835285883/
